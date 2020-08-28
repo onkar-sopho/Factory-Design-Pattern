@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03259fd-53f2-4c1d-aa52-3262e9ce4b49" name="Default Changelist" comment="Initial Commit: Strict Implementation of Factory Design Pattern">
+      <change afterPath="$PROJECT_DIR$/FactoryDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/CircleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/RectangleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/ShapeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FactoryDesignPattern/SquareFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Java\Design Patterns Java\Creational Design Pattern\Factory Design Pattern\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1giRTFJ8LEOwT29JZHyTTsMi5XA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="FactoryDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03259fd-53f2-4c1d-aa52-3262e9ce4b49" name="Default Changelist" comment="" />
+      <created>1598595431991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598595431991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit: Strict Implementation of Factory Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Strict Implementation of Factory Design Pattern" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Project_Structure" timestamp="1598595446410">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1598595446410" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1598596290464">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1598596290464" />
+    <state x="314" y="10" key="CommitChangelistDialog2" timestamp="1598597125955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="314" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598597125955" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1598596845944">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598596845944" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1598596845944">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598596845944" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1598596845944">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598596845944" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1598596845944">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598596845944" />
+  </component>
+</project>
